@@ -1,0 +1,16 @@
+
+
+.WIN{
+    border:3px solid blue;
+    /* width:400px;
+    height:600px;*/
+}
+
+.LOSE{
+    border:3px solid red;
+    /* width:400px;
+    height:600px; */
+}
+.TIE{
+    border:3px solid green;
+}
